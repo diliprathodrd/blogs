@@ -14,7 +14,7 @@ I was very much curious about AI since openAI launched chatGPT. I did research a
 
 Recently I joined GenAI cohort by @[Hitesh Choudhary](@hiteshchoudharylco) and @[Piyush Garg](@piyushgarg) and started my journey towards learning generative AI. lets breakdown the things and understand the magic under the hood.
 
-## 🧠What us generative AI?
+## 🧠What is generative AI?
 
 In simple words, generative AI is generating something using AI (Artificial Intelligence).
 
@@ -92,5 +92,3 @@ There are 2 phases of GPT’s
 When initially model is build, we need to train that model. The training is done using back propagation. for example `2+2`. The actual answer for this is `4` but model may give the wrong answer. So we will calculate the difference between actual answer and answer given by model which is also known as loss. back propagation is done till the loss is nearly 0. That model we can say as trained model.
 
 > [CLICK HERE](https://courses.chaicode.com/learn/batch/GenAI-with-Python-2) to join GetAI Cohort with Python - 2.0 and follow to ride the journey of this cohort with me.
-
-#chaicode #chai-code #genai #genai-cohort
