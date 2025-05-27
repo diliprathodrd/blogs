@@ -1,6 +1,5 @@
 ---
 title: "GenAI - Magic under the hood"
-seoTitle: "genai, chaicode, diliprathod, diliprathodblog"
 datePublished: Tue May 27 2025 13:51:32 GMT+0000 (Coordinated Universal Time)
 cuid: cmb6krl6j000509jvdowm2h5w
 slug: genai-magic-under-the-hood
