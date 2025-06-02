@@ -152,6 +152,7 @@ If you’ve ever wanted to build your own AI agent, here’s my advice:
 ### 💬 Want to Try the Hitesh AI Agent?
 
 Check it out Live - [Click Here](https://hitesh-ai-agent.streamlit.app/)
+Source Code - [Github](https://github.com/diliprathodrd/hitesh-ai-agent)
 
 > App can take time for initial chat as it is deployed using free hosting by streamkit
 
