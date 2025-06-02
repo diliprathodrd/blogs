@@ -3,6 +3,7 @@ title: "☕ How I Built My First AI Agent"
 datePublished: Mon Jun 02 2025 04:16:59 GMT+0000 (Coordinated Universal Time)
 cuid: cmbekvtrf001609kyadauez1a
 slug: how-i-built-my-first-ai-agent
+cover: https://cdn.hashnode.com/res/hashnode/image/upload/v1748838003214/8f2961b3-10c5-4a3a-a8a8-432b3a1865c8.jpeg
 
 ---
 
